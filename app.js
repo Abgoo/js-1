@@ -42,15 +42,14 @@ let userFullName = "Giorgi Totladze";
 
 // task 4
 
-// ?????????
-
-let array1 = ["Banana", "Orange", "Apple", "Mango", 2, 12];
-
-while (array1 = "") {
-    console.log(array1.toString)
+let fruitsArr = ["Banana", "Orange", "Apple", "Mango", 2, 12]
+let i = 0;
+while (i < 4) {
+    console.log(fruitsArr[i]);
+    i++;
 }
 
-// ????????
+
 
 // task 5
 
