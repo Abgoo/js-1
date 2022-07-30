@@ -6,7 +6,7 @@ let age = 28;
 const name1 = "levani";
 let age1 = 21;
 
-let number = age1 - age;
+let number = age - age1;
 
 console.log("ana levanze" + number + "wlit ufrosia");
 
@@ -53,7 +53,7 @@ while (i < 4) {
 
 // task 5
 
-var numbers = [12, 23, 43, 11, 9, 2, 121, 90];
+let numbers = [12, 23, 43, 11, 9, 2, 121, 90];
 
 if (numbers > 31, numbers % 2) {
     text = "Element is greater than provided value and is EVEN";
